@@ -1,0 +1,128 @@
+[
+    {
+        "name": "sk",
+        "Rollno": 7,
+        "Address": "werws",
+        "phone": "1234567890",
+        "email": "e@l.v",
+        "subject": {
+            "maths": 120,
+            "science": 122,
+            "social": 32,
+            "english": 43
+        },
+        "percentage": 34
+    },
+    {
+        "name": "z",
+        "Rollno": 9,
+        "Address": "qw",
+        "phone": "1234567890",
+        "email": "q@e.v",
+        "subject": {
+            "maths": 90,
+            "science": 82,
+            "social": 78,
+            "english": 62
+        },
+        "percentage": 12
+    },
+    {
+        "name": "aashrutya",
+        "Rollno": 1,
+        "Address": "khauma ",
+        "phone": "1234567890",
+        "email": "m@c.c",
+        "subject": {
+            "maths": 1,
+            "science": 32,
+            "social": 43,
+            "english": 54
+        },
+        "percentage": 12
+    },
+    {
+        "name": "qwerty",
+        "Rollno": 5,
+        "Address": "wembly",
+        "phone": "123457890",
+        "email": "m@l.c",
+        "subject": {
+            "maths": 35,
+            "science": 45,
+            "social": 56,
+            "english": 78
+        },
+        "percentage": 100.0
+    },
+    {
+        "name": "sahil bajracharya",
+        "Rollno": 6,
+        "Address": "woodland",
+        "phone": "1234567890",
+        "email": "w@l.c",
+        "subject": {
+            "maths": 12,
+            "science": 32,
+            "social": 43,
+            "english": 79
+        },
+        "percentage": 41.5
+    },
+    {
+        "name": "Asim Shakya",
+        "Rollno": 3,
+        "Address": "Bhkatapur",
+        "phone": "9876543210",
+        "email": "asim@gmai.com",
+        "subject": {
+            "maths": 56,
+            "science": 23,
+            "social": 29,
+            "english": 89
+        },
+        "percentage": 49.25
+    },
+    {
+        "name": "spain",
+        "Rollno": 8,
+        "Address": "madrid",
+        "phone": "2142311234",
+        "email": "meo@ll.vv",
+        "subject": {
+            "maths": 89,
+            "science": 52,
+            "social": 9,
+            "english": 90
+        },
+        "percentage": 60.0
+    },
+    {
+        "name": "Praaladh bassnet",
+        "Rollno": 4,
+        "Address": "qw",
+        "phone": "1223121212",
+        "email": "qqw@ll.vv",
+        "subject": {
+            "maths": 35,
+            "science": 43,
+            "social": 54,
+            "english": 34
+        },
+        "percentage": 41.5
+    },
+    {
+        "name": "saman desai",
+        "Rollno": 6,
+        "Address": "quaresma",
+        "phone": "1234567890",
+        "email": "wwe@kl.nm",
+        "subject": {
+            "maths": 12,
+            "science": 54,
+            "social": 89,
+            "english": 90
+        },
+        "percentage": 61.25000000000001
+    }
+]
